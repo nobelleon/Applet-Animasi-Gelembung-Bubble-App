@@ -4,4 +4,4 @@
 
 Applet Animasi Gelembung Bubble App Made in Java.
 
-![Gelembung Bubble](https://github.com/nobelleon/Applet-Animasi-Gelembung-Bubble-App/assets/76748114/e1546ff6-1ab3-4a55-b6e2-b741b319849b)
+![GelembungBubble](https://github.com/nobelleon/Applet-Animasi-Gelembung-Bubble-App/assets/76748114/5cbb4e41-689a-4995-b2de-07b9fe50dc75)
